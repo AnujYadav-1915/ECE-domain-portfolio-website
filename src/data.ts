@@ -115,17 +115,48 @@ export const EXPERIENCES: Experience[] = [
 
 export const CERTIFICATIONS: Certification[] = [
   { 
-    title: "Data Structures & Algorithms: 500+ algorithmic problems solved across LeetCode, CodeChef, and GeeksforGeeks", 
-    issuer: "Competitive Programming" 
-  },
-  { 
-    title: "AWS Certified Cloud Practitioner — Amazon Web Services", 
+    title: "AWS Certified Machine Learning / Cloud Certification", 
     issuer: "Amazon Web Services",
     link: "/assets/AWS_Certified_ML.pdf"
   },
   { 
-    title: "FreeCodeCamp Certifications (5x)", 
-    issuer: "FreeCodeCamp" 
+    title: "AWS Certified AI Practitioner", 
+    issuer: "Amazon Web Services",
+    link: "/assets/AWS_AI_Practitioner.pdf"
+  },
+  { 
+    title: "AWS Certified Cloud Practitioner", 
+    issuer: "Amazon Web Services",
+    link: "/assets/AWS_Cloud_Practitioner.pdf"
+  },
+  { 
+    title: "AI Outskill Certification", 
+    issuer: "AI Outskill",
+    link: "/assets/AI_Outskill_Certificate.pdf"
+  },
+  { 
+    title: "FreeCodeCamp: JavaScript Algorithms and Data Structures (v8)", 
+    issuer: "freeCodeCamp",
+    link: "/assets/FreeCodeCamp_JavaScript.pdf"
+  },
+  { 
+    title: "FreeCodeCamp: Data Visualization Certification", 
+    issuer: "freeCodeCamp",
+    link: "/assets/FreeCodeCamp_DataVis.pdf"
+  },
+  { 
+    title: "FreeCodeCamp: Front End Development Libraries", 
+    issuer: "freeCodeCamp",
+    link: "/assets/FreeCodeCamp_FrontEnd.pdf"
+  },
+  { 
+    title: "FreeCodeCamp: Responsive Web Design", 
+    issuer: "freeCodeCamp",
+    link: "/assets/FreeCodeCamp_WebDesign.pdf"
+  },
+  { 
+    title: "Data Structures & Algorithms: 500+ algorithmic problems solved across LeetCode, CodeChef, and GeeksforGeeks", 
+    issuer: "Competitive Programming" 
   },
   { 
     title: "Forage Job Simulations (4x): Citi, Commonwealth Bank, Skyscanner, Walmart Global Tech", 
