@@ -115,6 +115,24 @@ export const EXPERIENCES: Experience[] = [
 
 export const CERTIFICATIONS: Certification[] = [
   { 
+    title: "Walmart Global Tech: Advanced Software Engineering Job Simulation", 
+    issuer: "Walmart Global Tech / Forage",
+    link: "/assets/Walmart_Advanced_Software_Engineering_Forage.pdf"
+  },
+  { 
+    title: "Citi: Technology Software Development Job Simulation", 
+    issuer: "Citi / Forage",
+    link: "/assets/Citi_Software_Development_Forage.pdf"
+  },
+  { 
+    title: "Skyscanner: Software Engineering Job Simulation", 
+    issuer: "Skyscanner / Forage"
+  },
+  { 
+    title: "Commonwealth Bank: Software Engineering Job Simulation", 
+    issuer: "Commonwealth Bank / Forage"
+  },
+  { 
     title: "AWS Certified Machine Learning / Cloud Certification", 
     issuer: "Amazon Web Services",
     link: "/assets/AWS_Certified_ML.pdf"
@@ -157,9 +175,5 @@ export const CERTIFICATIONS: Certification[] = [
   { 
     title: "Data Structures & Algorithms: 500+ algorithmic problems solved across LeetCode, CodeChef, and GeeksforGeeks", 
     issuer: "Competitive Programming" 
-  },
-  { 
-    title: "Forage Job Simulations (4x): Citi, Commonwealth Bank, Skyscanner, Walmart Global Tech", 
-    issuer: "Forage Simulations" 
   }
 ];
